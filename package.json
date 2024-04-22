@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ai": "^3.0.24",
+    "ai": "3.0.19",
     "next": "14.3.0-canary.15",
     "openai": "^4.38.2",
     "react": "^18",
